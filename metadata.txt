@@ -1,0 +1,6 @@
+---
+title: Domains at War: ACKSpanded Armies
+author: J.E. Davis
+lang: en-us
+# cover-image: ohshit.png
+---
