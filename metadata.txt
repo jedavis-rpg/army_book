@@ -1,6 +1,10 @@
 ---
-title: Domains at War: ACKSpanded Armies
+title: Domains at War - ACKSpanded Armies
 author: J.E. Davis
 lang: en-us
+book: true
+titlepage: true
+table-use-row-colors: true
+toc-own-page: true
 # cover-image: ohshit.png
 ---
